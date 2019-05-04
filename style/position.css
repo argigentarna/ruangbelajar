@@ -1,0 +1,38 @@
+.kotak {
+    position: relative;
+    /* memberi jarak dengan posisi sebelumnya */
+    top: 120px;
+
+    /* memberi jarak dengan elemen diatasnya */
+    /* margin-top: 120px; */
+    background-color: aqua;
+}
+
+.belajar2 {
+    position: absolute;
+    /* top: 0; */
+    top: 0;
+    right: 0;
+    margin: 0;
+    background-color: blue;
+}
+
+div {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.fix {
+    background-color: green;
+    position: fixed;
+    top: 20px;
+}
+
+/* berfungsi jika posisinya terpenuhi */
+.stic {
+    background-color: royalblue;
+    position: sticky;
+    top: 30px;
+}

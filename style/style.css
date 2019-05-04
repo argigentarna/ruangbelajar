@@ -1,0 +1,35 @@
+/* h1 {
+    color: yellowgreen
+}
+
+#judul {
+    color: blanchedalmond
+}
+
+.belajar {
+    color: green
+}
+
+h4, h5, h6 {
+    color: red
+} */
+
+h2 {
+    color: #CE7878
+}
+
+#idwarna {
+    background-color: #CE7878
+}
+
+.warnakelas {
+    color: yellowgreen
+}
+
+body {
+    /* background-image: url(../img/juve.jpg);
+    background-repeat: no-repeat;
+    background-position: center top */
+
+    background: orange url(../img/juve.jpg) no-repeat center top
+}
